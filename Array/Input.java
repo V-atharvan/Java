@@ -1,6 +1,8 @@
 import java .util.*;
 public class Input{
     public static void main (String args[]){
+
+
         System.out.print("Enter the size of the array");
         Scanner sc = new Scanner (System.in);
         int size = sc.nextInt();
