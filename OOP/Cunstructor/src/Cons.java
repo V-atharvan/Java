@@ -24,7 +24,7 @@ class Vehical{
     }
 
     void display() {
-        System.out.println("Brand: " + name);
+        System.out.println("Brand is : " + name);
         System.out.println("Model Year: " + model);
         System.out.println("Model Name: " + modelName);
     }
