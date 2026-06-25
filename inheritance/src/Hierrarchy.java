@@ -1,4 +1,4 @@
-public class MultipleInheritance {
+public class Hierrarchy {
     static void main(String[] args) {
         Student s = new Student();
         MedicalStd m = new MedicalStd();
