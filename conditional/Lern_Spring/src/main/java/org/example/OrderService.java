@@ -17,5 +17,7 @@ public class OrderService {
     public void placeorder () {
         System.out.println("Order placed !!!");
         es.sendEmail();
+        notifypop.sendEmail();
+        notifyemail.sendEmail();
     }
 }

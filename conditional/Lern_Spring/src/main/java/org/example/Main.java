@@ -4,7 +4,7 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     static void main() {
-        OrderService order = new OrderService();
+        org.example.OrderService order = new org.example.OrderService();
 
         order.placeorder();
 
