@@ -4,6 +4,7 @@ public class Functionbasic {
 
     static int sum(int a ,int b){
        int  c = a+b;
+       int d= a-b;
       return c;
     }
 
