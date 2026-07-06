@@ -5,6 +5,7 @@ abstract class Animal {
 class Dog extends Animal {
     void sound() {
         System.out.println("Dog barks");
+        System.out.println("Dog bits");
     }
 }
 
