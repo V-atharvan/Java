@@ -6,6 +6,8 @@ public class Hierrarchy {
 
         s.stmt();
 
+
+
         m.stmt();
         m.attend();
         e.stmt();
