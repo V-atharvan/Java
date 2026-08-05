@@ -12,5 +12,11 @@
         <module name="Array1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AbstractClass (1)" target="25" />
+      <module name="Array1 (1)" target="25" />
+      <module name="Condi (1)" target="25" />
+      <module name="Enum (1)" target="25" />
+    </bytecodeTargetLevel>
   </component>
 </project>
