@@ -10,6 +10,7 @@
         <module name="Condi" />
         <module name="AbstractClass" />
         <module name="Array1" />
+        <module name="Generics" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

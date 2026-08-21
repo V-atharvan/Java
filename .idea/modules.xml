@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbstractClass/AbstractClass (1).iml" filepath="$PROJECT_DIR$/AbstractClass/AbstractClass (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array1/Array1 (1).iml" filepath="$PROJECT_DIR$/Array1/Array1 (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/CSE Coding Notes.iml" filepath="$PROJECT_DIR$/CSE Coding Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Condi/Condi (1).iml" filepath="$PROJECT_DIR$/Condi/Condi (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/Cunstructor/Cunstructor.iml" filepath="$PROJECT_DIR$/OOP/Cunstructor/Cunstructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum (1).iml" filepath="$PROJECT_DIR$/Enum/Enum (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Package_in _Java/Package_in _Java.iml" filepath="$PROJECT_DIR$/Package_in _Java/Package_in _Java.iml" />
