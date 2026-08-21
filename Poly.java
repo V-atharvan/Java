@@ -19,8 +19,8 @@ public class PolymorphismExample {
     public static void main(String[] args) {
         Shape shape1 = new Circle();
         Shape shape2 = new Square();
-        // Polymorphism in action
-        shape1.draw(); // Calls the draw method of Circle
-        shape2.draw(); // Calls the draw method of Square
+        
+        shape1.draw(); 
+        shape2.draw(); 
     }
 }
