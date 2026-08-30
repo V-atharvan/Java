@@ -9,6 +9,7 @@
         <module name="Enum" />
         <module name="Condi" />
         <module name="AbstractClass" />
+        <module name="CollectionFramework" />
         <module name="Array1" />
         <module name="Generics" />
       </profile>
