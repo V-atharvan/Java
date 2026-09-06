@@ -9,6 +9,7 @@ public class Main {
         names.add("Rahul");
         names.add("Amrut");
 
+
         System.out.println(names);
     }
 }
