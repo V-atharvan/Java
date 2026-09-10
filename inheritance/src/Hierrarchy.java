@@ -5,10 +5,7 @@ public class Hierrarchy {
         Engi e = new Engi();
 
         s.stmt();
-
         
-
-
         m.stmt();
         m.attend();
         e.stmt();
