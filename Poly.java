@@ -15,6 +15,7 @@ class Square extends Shape {
         System.out.println("Drawing a square");
     }
 }
+
 public class PolymorphismExample {
     public static void main(String[] args) {
         Shape shape1 = new Circle();
