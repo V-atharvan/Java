@@ -23,5 +23,6 @@ public class PolymorphismExample {
         
         shape1.draw(); 
         shape2.draw(); 
+        shape1.draw();
     }
 }
