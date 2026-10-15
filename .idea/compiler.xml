@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Enum" />
+        <module name="P" />
         <module name="Condi" />
         <module name="AbstractClass" />
         <module name="CollectionFramework" />
