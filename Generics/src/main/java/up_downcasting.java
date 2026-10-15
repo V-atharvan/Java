@@ -9,6 +9,7 @@ public class up_downcasting {
         System.out.println(obj1);
 
         //downcasting
+        
 
         Object obj2 = "This is downcasting";
         String s2 = (String) obj2;
