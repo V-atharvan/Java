@@ -3,6 +3,7 @@ trying to lern stream
 
 
 
-kkkkkk. nothing
+kkkkkk. n
+othing
 
 jhf
